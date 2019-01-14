@@ -2,7 +2,6 @@
 
 ## 一、Usage
 
-Download
 ```
 ▶ git clone git@github.com:amandakelake/create-simple-fe.git
 ▶ cd create-simple-fe
@@ -11,7 +10,7 @@ Download
 ```
 
 
-## 二、如何搭建
+## 二、搭建过程
 ### 1、初始化+Webpack打包
 ```
 npm init -y
